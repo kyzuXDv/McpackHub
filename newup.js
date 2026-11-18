@@ -15,10 +15,10 @@ const FILES = [
   type: 'texture',
   ext: 'MCPACK',
   desc: 'totem custom mempercantik texture totem jadi lebih bagus.',
-  size: '8.3 MB',
-  sizeMB: 8.3,
+  size: '1.86 MB',
+  sizeMB: 1.86,
   version: 'v1.0',
   image: 'https://cdn.jsdelivr.net/gh/kyzuXDv/McpackHubImages@main/images/1794977079694-14900.jpg',
-  url: 'https://drive.google.com/file/d/xxxxx/view'
+  url: 'https://www.mediafire.com/file/s3joa9cogddsqe5/totem+custom+by+aditt.mcpack/file'
   }
 ];
