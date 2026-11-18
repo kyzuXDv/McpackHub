@@ -18,7 +18,7 @@ const FILES = [
   size: '8.3 MB',
   sizeMB: 8.3,
   version: 'v1.0',
-  image: 'yataa.jpg',
+  image: 'https://cdn.jsdelivr.net/gh/kyzuXDv/McpackHubImages@main/images/1794977079694-14900.jpg',
   url: 'https://drive.google.com/file/d/xxxxx/view'
   }
 ];
