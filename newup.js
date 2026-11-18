@@ -11,10 +11,10 @@
 const FILES = [
   {
   id: 1,
-  name: 'Texture Pack Cyberpunk',
+  name: 'totem custom by aditt',
   type: 'texture',
   ext: 'MCPACK',
-  desc: 'Texture pack bertema neon cyberpunk dengan pencahayaan futuristik.',
+  desc: 'totem custom mempercantik texture totem jadi lebih bagus.',
   size: '8.3 MB',
   sizeMB: 8.3,
   version: 'v1.0',
